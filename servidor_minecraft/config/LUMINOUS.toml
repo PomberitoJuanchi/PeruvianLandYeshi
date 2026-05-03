@@ -1,0 +1,21 @@
+
+[WorldGeneration]
+	#Pebble spawnrate (5 is normal, 0 is disabled)
+	"Pebble Spawnrate" = 5.0
+	#Auburn tree spawnrate (5 is normal, 0 is disabled)
+	"Auburn Tree Spawnrate" = 5.0
+	#White oak tree spawnrate (5 is normal, 0 is disabled)
+	"White Oak Tree Spawnrate" = 5.0
+	#Palm tree spawnrate (5 is normal, 0 is disabled)
+	"Palm Tree Spawnrate" = 5.0
+	#Birch tree spawnrate (5 is normal, 0 is disabled)
+	"Birch Tree Spawnrate" = 5.0
+	"Tall Taiga Spawnrate" = 5.0
+	#Baobab tree spawnrate (5 is normal, 0 is disabled)
+	"Baobab Tree Spawnrate" = 5.0
+	"Snowy Plants Spawn" = "true"
+
+["Mob Spawns"]
+	#True means enabled, false means disabled
+	"Bug Spawns" = "true"
+
