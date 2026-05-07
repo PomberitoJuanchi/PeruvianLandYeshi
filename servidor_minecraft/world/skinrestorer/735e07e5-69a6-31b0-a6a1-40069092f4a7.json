@@ -1,0 +1,10 @@
+{
+  "provider": "mojang",
+  "argument": "Alezroid",
+  "value": {
+    "name": "textures",
+    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODAwMTM5OTkwOCwKICAicHJvZmlsZUlkIiA6ICIzZTUyZjk4YTg1ZDI0ZWQwYTllNzNjZjFlMmU4NTY0YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGV6cm9pZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82N2FiYjQ4ZTUxZmJhOTZiYjViYmNjZjJlYmQ0MWI0ZGI4YzYxY2JlNTE0OWMwYmM4NzU2OTVmODU0NTFkZjMiCiAgICB9CiAgfQp9",
+    "signature": "JZso/CXmowWkPC1PDf+RySe0mNX4ZSGcXKMWA6Ew+FL7+s98mqI3lOAfIPv7OQRjP2auUwq/HL2SCQsRFdk8vzyQNH67UwkdYAfj4ilN4GPk625xYwpIupPs11MGvp0q5y14XdRA5aODXdVrFAvjdCPnP/psYo/KMk9Jq/qiNBc5/x9CbLfkKHBPb+dChAHqhUah1t24ZyQJ9vYoLqRVZL7FwTQoApwBpEhiWv/RcbeZJL2GiiFy9TZswcmsA3XyJ+6Ksqop7zoCMRVFg2+DT2xKzSDXeuwa/1nuRnyQygWz7bvKt8GRSyYBpVY28sw+pyDzeujlxLkQk3t1xaa1Q4B8+/ef9ne2FfmtAkZstfcANhjLjmiE7eVv9mCXkBEdMqZiSGTebCg23eKiobVWZ8/xhQUu55zJTZBNjzrdJ5oDBrrGKsAjrdvSGqrmE9fBm3+7FqzYknW1kb+q+5R8O3ewcVgWr+iz3QU1UpSJQPd7NCnZNi5eV1kfdmi747oIq/y30LZFZ+9kZ7DndVWNLqXtvLoN6qDfSF76HzRxo3cHtYRXBHHkxBxUNsIG32ztEzz2dRulgo76O6i/I9lOWQO7+eFs7gAfXN+rcHEv1MC5+6rLzt/UScAl1SQTm833+WdsK+hTfQsqqskpslkzajy3tJF1Vp0/3AUb1jf+eig\u003d"
+  },
+  "version": 1
+}

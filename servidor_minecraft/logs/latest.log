@@ -1,0 +1,349 @@
+[06May2026 20:41:30.638] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[06May2026 20:41:30.641] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.18 by Ubuntu; OS Linux arch amd64 version 6.8.0-1044-azure
+[06May2026 20:41:32.219] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/PeruvianLandYeshi/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[06May2026 20:41:32.665] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/PeruvianLandYeshi/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[06May2026 20:41:32.667] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/PeruvianLandYeshi/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[06May2026 20:41:32.669] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/PeruvianLandYeshi/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[06May2026 20:41:32.670] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/PeruvianLandYeshi/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[06May2026 20:41:32.909] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[06May2026 20:41:32.910] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[06May2026 20:41:35.327] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06May2026 20:41:35.533] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[06May2026 20:41:35.536] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[06May2026 20:41:35.653] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.1+mc1.19.2: 87 options available, 0 override(s) found
+[06May2026 20:41:35.654] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[06May2026 20:41:35.668] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[06May2026 20:41:35.680] [main/WARN] [mixin/]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[06May2026 20:41:35.688] [main/WARN] [mixin/]: Reference map 'beachparty-forge-refmap.json' for beachparty.mixins.json could not be read. If this is a development environment you can ignore this message
+[06May2026 20:41:35.768] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 114 options available, 0 override(s) found
+[06May2026 20:41:36.241] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06May2026 20:41:36.254] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06May2026 20:41:36.642] [main/WARN] [mixin/]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
+[06May2026 20:41:36.937] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[06May2026 20:41:37.458] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.269 s after launch)
+[06May2026 20:41:37.688] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[06May2026 20:41:37.689] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[06May2026 20:41:38.286] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06May2026 20:41:38.287] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06May2026 20:41:38.430] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zid000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[06May2026 20:41:39.479] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2016 milliseconds
+[06May2026 20:41:40.047] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06May2026 20:41:40.049] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06May2026 20:41:41.654] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[06May2026 20:41:43.480] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[06May2026 20:41:43.480] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[06May2026 20:41:43.525] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[06May2026 20:41:43.525] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[06May2026 20:41:44.373] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06May2026 20:41:44.572] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id beachparty:mouse_scroll
+[06May2026 20:41:44.612] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[06May2026 20:41:44.618] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[06May2026 20:41:44.619] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[06May2026 20:41:44.640] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
+[06May2026 20:41:44.792] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[06May2026 20:41:44.794] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[06May2026 20:41:45.342] [modloading-worker-0/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[06May2026 20:41:48.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[06May2026 20:41:48.218] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 20
+[06May2026 20:41:48.349] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[06May2026 20:41:48.362] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[06May2026 20:41:48.362] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[06May2026 20:41:48.362] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[06May2026 20:41:48.511] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23256!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23256!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[06May2026 20:41:48.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[06May2026 20:41:48.531] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[06May2026 20:41:48.531] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[06May2026 20:41:48.532] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[06May2026 20:41:48.532] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[06May2026 20:41:48.546] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.4.2 Target: null
+[06May2026 20:41:48.546] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[06May2026 20:41:48.554] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: AHEAD Current: 1.1.0 Target: null
+[06May2026 20:41:48.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[06May2026 20:41:48.569] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[06May2026 20:41:48.570] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[06May2026 20:41:48.570] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[06May2026 20:41:48.570] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[06May2026 20:41:48.570] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[06May2026 20:41:48.570] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[06May2026 20:41:48.571] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[06May2026 20:41:48.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 8.2.41 Target: null
+[06May2026 20:41:48.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[06May2026 20:41:48.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.2 Target: null
+[06May2026 20:41:48.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[06May2026 20:41:48.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: AHEAD Current: 1.1.5 Target: null
+[06May2026 20:41:48.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06May2026 20:41:48.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
+[06May2026 20:41:48.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[06May2026 20:41:49.145] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
+[06May2026 20:41:49.157] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[06May2026 20:41:49.162] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[06May2026 20:41:49.186] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[06May2026 20:41:49.196] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[06May2026 20:41:49.201] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.github.tartaricacid.touhoulittlemaid.compat.jade.JadePlugin
+[06May2026 20:41:49.207] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[06May2026 20:41:49.239] [modloading-worker-0/INFO] [hnh/]: Initialized color sets in 106ms
+[06May2026 20:41:49.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.19.2-1.0.17 Target: null
+[06May2026 20:41:49.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[06May2026 20:41:49.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: AHEAD Current: 3.1.2 Target: null
+[06May2026 20:41:49.328] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[06May2026 20:41:49.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.19.2-2.6.16 Target: 1.19.2-2.6.17
+[06May2026 20:41:49.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[06May2026 20:41:49.485] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06May2026 20:41:49.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.19.2-1.0.15 Target: null
+[06May2026 20:41:49.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[06May2026 20:41:49.544] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.5 Target: null
+[06May2026 20:41:49.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[06May2026 20:41:49.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.1 Target: null
+[06May2026 20:41:49.559] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[06May2026 20:41:49.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
+[06May2026 20:41:49.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[06May2026 20:41:49.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.4.1 Target: null
+[06May2026 20:41:49.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[06May2026 20:41:49.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 4.4.3 Target: null
+[06May2026 20:41:49.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[06May2026 20:41:49.715] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23256!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23256!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[06May2026 20:41:49.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[06May2026 20:41:49.728] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.5 Target: null
+[06May2026 20:41:50.210] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/PeruvianLandYeshi/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23255!/assets/.mcassetsroot' uses unexpected schema
+[06May2026 20:41:50.210] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/PeruvianLandYeshi/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23255!/data/.mcassetsroot' uses unexpected schema
+[06May2026 20:41:52.867] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[06May2026 20:41:53.097] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:pink_petals (from [1.19.2-forge]-Epic-Knights-9.17.jar)] as it is missing following references: minecraft:pink_petals (from [1.19.2-forge]-Epic-Knights-9.17.jar)
+[06May2026 20:41:53.100] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [magistuarmory:gilding_template (from [1.19.2-forge]-Epic-Knights-9.17.jar)] as it is missing following references: magistuarmory:gilding_template (from [1.19.2-forge]-Epic-Knights-9.17.jar)
+[06May2026 20:41:53.721] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file hnh:white_terracotta_brick_stairs from hnh:recipes/white_terracotta_brick_stairs.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 16 column 14 path $.result.count
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:512) ~[server-1.19.2-20220805.130853-srg.jar%23255!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:549) ~[server-1.19.2-20220805.130853-srg.jar%23255!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23255!/:?]
+	at net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener.m_5944_(SimpleJsonResourceReloadListener.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23255!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[server-1.19.2-20220805.130853-srg.jar%23255!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 16 column 14 path $.result.count
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1562) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1403) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:592) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:424) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:661) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:684) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:684) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:655) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$33$1.read(TypeAdapters.java:866) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:510) ~[server-1.19.2-20220805.130853-srg.jar%23255!/:?]
+	... 11 more
+[06May2026 20:41:53.751] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cozy_home:table_stump_cherry_recipe: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[06May2026 20:41:53.792] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:gilding_template_copy: com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_template'
+[06May2026 20:41:53.817] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:darkening_template: com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:darkening_template'
+[06May2026 20:41:53.857] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe touhou_little_maid:memorizable_gensokyo as it's serializer returned null
+[06May2026 20:41:53.861] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cozy_home:grandfather_clock_cherry_recipe: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[06May2026 20:41:53.865] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:gilding_template: com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:gilding_template'
+[06May2026 20:41:53.891] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cozy_home:cherry_plank_recipe: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[06May2026 20:41:53.901] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmory:darkening_template_copy: com.google.gson.JsonSyntaxException: Unknown item 'magistuarmory:darkening_template'
+[06May2026 20:41:53.925] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[06May2026 20:41:54.022] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table touhou_little_maid:grant_book_on_first_join: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+[06May2026 20:41:54.242] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table luminousworld:chests/desertruin: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'luminousworld:deleted_mod_element'
+[06May2026 20:41:54.342] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {luminousworld:entities/fawn}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[06May2026 20:41:54.342] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {luminousworld:entities/deer}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[06May2026 20:41:54.342] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {luminousworld:entities/deer}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[06May2026 20:41:54.343] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {luminousworld:entities/fawn}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[06May2026 20:41:54.345] [main/INFO] [placebo/]: Registered 0 additional loot tables.
+[06May2026 20:41:54.402] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement luminousworld:kill_treent: Expected item to be an item, was unknown string 'luminousworld:deleted_mod_element'
+[06May2026 20:41:54.420] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement luminousworld:why: Non [a-z0-9/._-] character in path of location: luminousworld:bleach
+
+[06May2026 20:41:54.516] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3512 advancements
+[06May2026 20:41:54.523] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[06May2026 20:41:54.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[06May2026 20:41:54.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06May2026 20:41:54.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06May2026 20:41:54.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06May2026 20:41:55.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06May2026 20:41:55.026] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06May2026 20:41:55.149] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06May2026 20:41:55.149] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06May2026 20:41:55.150] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06May2026 20:41:55.150] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06May2026 20:41:55.418] [Server thread/INFO] [Framework/]: Loading server configs...
+[06May2026 20:41:55.438] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[06May2026 20:41:55.737] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[06May2026 20:41:55.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06May2026 20:41:56.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06May2026 20:41:57.117] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[06May2026 20:41:57.821] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2026 20:41:57.872] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2026 20:41:57.873] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2026 20:41:57.873] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2026 20:41:58.087] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2026 20:41:58.580] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[06May2026 20:41:58.703] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2639 ms
+[06May2026 20:41:58.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.541s)! For help, type "help"
+[06May2026 20:41:58.781] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06May2026 20:41:58.814] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[06May2026 20:41:58.823] [Server thread/WARN] [ModernFix/]: Dedicated server took 30.635 seconds to load
+[06May2026 20:41:58.829] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[06May2026 20:42:18.135] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[06May2026 20:42:18.236] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f332b15
+[06May2026 20:42:18.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yeshi_op[/127.133.239.199:45937] logged in with entity id 39 at (-628.4659174931065, 61.96531075732169, 66.59134857009086)
+[06May2026 20:42:18.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeshi_op joined the game
+[06May2026 20:42:18.424] [Server thread/INFO] [Jade/]: Syncing config to Yeshi_op (4c33025c-2947-372b-a1fa-25ca5180ac63)
+[06May2026 20:42:18.638] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Yeshi_op (20)
+[06May2026 20:42:18.642] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Yeshi_op
+[06May2026 20:42:19.704] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a698bec
+[06May2026 20:42:19.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darck_io[/127.7.124.239:52061] logged in with entity id 107 at (-634.5825378523268, 62.50544380023606, 65.85148900575065)
+[06May2026 20:42:19.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io joined the game
+[06May2026 20:42:19.787] [Server thread/INFO] [Jade/]: Syncing config to Darck_io (de3cea2c-635a-3658-aebe-c8ffb87a3f8d)
+[06May2026 20:42:20.118] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Darck_io (20)
+[06May2026 20:42:20.119] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Darck_io
+[06May2026 20:43:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io has made the advancement [Not Today, Thank You]
+[06May2026 20:43:38.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io was killed by magic whilst trying to escape Pillager
+[06May2026 20:45:14.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeshi_op was killed by magic whilst trying to escape Pillager
+[06May2026 20:45:14.190] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Yeshi_op with unique ID travelersbackpack.iron_golem_06.05.2026-20.45.14.dat
+[06May2026 20:45:14.192] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -651 Y: 65.0 Z: 71
+[06May2026 20:45:22.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io was shot by Pillager
+[06May2026 20:53:19.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06May2026 20:53:19.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[06May2026 20:53:54.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Darck_io) moved too quickly! -9.238748351736035,-0.67915719505109,3.957254474657475
+[06May2026 20:53:54.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Darck_io) moved too quickly! -9.999911511036316,-0.5799165249047888,4.320474864199468
+[06May2026 20:53:54.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Darck_io) moved too quickly! -10.740946144149234,-0.46631510642536966,4.690113910294713
+[06May2026 20:53:54.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Darck_io) moved too quickly! -11.461591444911392,-0.3415270037459379,5.066449979490812
+[06May2026 20:53:54.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Darck_io) moved too quickly! -12.1620176628345,-0.20825031797664906,5.449289724807386
+[06May2026 20:53:54.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Darck_io) moved too quickly! -12.842712143666404,-0.06876773751197618,5.8381452101023115
+[06May2026 20:54:59.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io has made the advancement [Voluntary Exile]
+[06May2026 20:57:28.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io has made the advancement [You've Got a Friend in Me]
+[06May2026 21:06:23.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeshi_op blew up
+[06May2026 21:06:23.917] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Yeshi_op with unique ID travelersbackpack.iron_golem_06.05.2026-21.06.23.dat
+[06May2026 21:06:23.917] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -1229 Y: 73.58938598632812 Z: -1184
+[06May2026 21:06:28.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yeshi_op was kicked for floating too long!
+[06May2026 21:06:28.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yeshi_op lost connection: Flying is not enabled on this server
+[06May2026 21:06:28.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeshi_op left the game
+[06May2026 21:06:28.239] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yeshi_op
+[06May2026 21:06:28.271] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06May2026 21:06:41.145] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@65140d1a
+[06May2026 21:06:41.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yeshi_op[/127.133.239.199:39837] logged in with entity id 8700 at (-638.5, 63.5, 7.5)
+[06May2026 21:06:41.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeshi_op joined the game
+[06May2026 21:06:41.172] [Server thread/INFO] [Jade/]: Syncing config to Yeshi_op (4c33025c-2947-372b-a1fa-25ca5180ac63)
+[06May2026 21:06:41.340] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Yeshi_op (20)
+[06May2026 21:06:41.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Yeshi_op
+[06May2026 21:06:52.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yeshi_op: Teleported Yeshi_op to -1228.500000, 73.000000, -1184.500000]
+[06May2026 21:08:38.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeshi_op has made the advancement [Ice Bucket Challenge]
+[06May2026 21:09:08.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeshi_op has made the advancement [Who is Cutting Onions?]
+[06May2026 21:32:23.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeshi_op has made the advancement [Not Today, Thank You]
+[06May2026 21:36:12.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io has made the advancement [Ice Bucket Challenge]
+[06May2026 21:39:41.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Darck_io) moved too quickly! 10.340341217095329,0.16207773866295838,-1.5466532502723567
+[06May2026 21:39:41.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Darck_io) moved too quickly! 10.99099829983345,0.17031986294568924,-1.6433825998039993
+[06May2026 21:39:41.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Darck_io) moved too quickly! 11.641690483779485,0.17858415496715452,-1.7406663237863995
+[06May2026 21:39:46.679] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/19160, l='ServerLevel[world]', x=-878.50, y=42.00, z=-1776.50]
+[06May2026 21:39:47.029] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/19181, l='ServerLevel[world]', x=-872.50, y=43.00, z=-1779.50]
+[06May2026 21:40:30.832] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/20639, l='ServerLevel[world]', x=-526.50, y=49.00, z=-1680.50]
+[06May2026 21:40:52.929] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/21367, l='ServerLevel[world]', x=-523.50, y=57.00, z=-1678.50]
+[06May2026 21:42:36.962] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=151, y=-34, z=-1375}
+[06May2026 21:43:38.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeshi_op fell from a high place
+[06May2026 21:43:38.978] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Yeshi_op with unique ID travelersbackpack.iron_golem_06.05.2026-21.43.38.dat
+[06May2026 21:43:38.978] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 86 Y: 106.0 Z: -1548
+[06May2026 21:44:03.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yeshi_op: Teleported Yeshi_op to 86.500000, 106.000000, -1547.500000]
+[06May2026 21:45:13.902] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[06May2026 21:45:39.593] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[06May2026 21:45:39.594] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[06May2026 21:49:48.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io has made the advancement [Stone Free]
+[06May2026 21:49:52.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeshi_op has made the advancement [Stone Free]
+[06May2026 21:55:52.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darck_io lost connection: Disconnected
+[06May2026 21:55:52.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io left the game
+[06May2026 21:55:52.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Darck_io
+[06May2026 21:56:10.403] [ForkJoinPool.commonPool-worker-6/ERROR] [touhou_little_maid/]: Request failed: http://127.0.0.1:4315/v1/chat/completions POST
+java.util.concurrent.CompletionException: java.net.ConnectException
+	at java.util.concurrent.CompletableFuture.encodeRelay(CompletableFuture.java:368) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeRelay(CompletableFuture.java:377) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1152) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1107) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:203) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:238) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:214) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	... 5 more
+Caused by: java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:760) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:848) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:187) ~[java.net.http:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:189) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:238) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:214) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	... 5 more
+[06May2026 21:57:18.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Yeshi_op
+[06May2026 21:58:57.143] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f97e32d
+[06May2026 21:58:57.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darck_io[/127.7.124.239:34459] logged in with entity id 25788 at (48.4642497485104, 89.0, -1745.6036192981112)
+[06May2026 21:58:57.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io joined the game
+[06May2026 21:58:57.215] [Server thread/INFO] [Jade/]: Syncing config to Darck_io (de3cea2c-635a-3658-aebe-c8ffb87a3f8d)
+[06May2026 21:59:00.518] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Darck_io (20)
+[06May2026 21:59:00.518] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Darck_io
+[06May2026 22:02:39.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io was blown up by Creeper
+[06May2026 22:02:39.391] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Darck_io with unique ID travelersbackpack.standard_06.05.2026-22.02.39.dat
+[06May2026 22:02:39.391] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 46 Y: 20.0 Z: -1730
+[06May2026 22:04:39.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io has made the advancement [Cover Me with Diamonds]
+[06May2026 22:05:05.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeshi_op has made the advancement [Cover Me with Diamonds]
+[06May2026 22:14:16.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06May2026 22:14:16.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sss<--[HERE]
+[06May2026 22:29:14.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06May2026 22:29:14.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ss<--[HERE]
+[06May2026 22:29:24.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: Yeshi_op, Darck_io
+[06May2026 22:36:18.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darck_io lost connection: Disconnected
+[06May2026 22:36:18.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darck_io left the game
+[06May2026 22:36:18.132] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Darck_io
+[06May2026 22:36:24.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yeshi_op lost connection: Disconnected
+[06May2026 22:36:24.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yeshi_op left the game
+[06May2026 22:36:24.430] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yeshi_op
+[06May2026 22:49:40.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06May2026 22:49:40.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sstt<--[HERE]
+[06May2026 22:49:54.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06May2026 22:49:54.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06May2026 22:49:54.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06May2026 22:49:54.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06May2026 22:49:54.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06May2026 22:49:54.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06May2026 22:49:54.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06May2026 22:49:54.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06May2026 22:49:54.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06May2026 22:49:54.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06May2026 22:49:54.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06May2026 22:49:55.261] [Server thread/INFO] [Framework/]: Unloading server configs...
